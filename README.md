@@ -6,12 +6,6 @@ O conteúdo foi elaborado com base em um **diagnóstico realizado com 21 partici
 
 ---
 
-## 📸 Demonstração
-
-> _Adicione aqui um print da página inicial._
-
----
-
 ## 🎯 Objetivo
 
 Promover a conscientização sobre segurança digital por meio de uma plataforma simples, acessível e responsiva, abordando temas como:
