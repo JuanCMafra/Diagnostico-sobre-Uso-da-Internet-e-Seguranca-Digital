@@ -1,4 +1,4 @@
-# 🛡️ Internet Segura
+# 🛡️ Diagnóstico sobre Uso da Internet e Segurança Digital
 
 Uma página web desenvolvida como parte da **Atividade Extensionista** do curso de **Engenharia de Software** da **UniCesumar**, com o objetivo de conscientizar a comunidade sobre segurança digital, golpes na internet e boas práticas para proteção de dados.
 
